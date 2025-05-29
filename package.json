@@ -1,0 +1,22 @@
+{
+  "name": "kiet-dev",
+  "version": "1.0.0",
+  "description": "Full stack Dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davy-10/KIET-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davy-10/KIET-dev/issues"
+  },
+  "homepage": "https://github.com/Davy-10/KIET-dev#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
